@@ -1,6 +1,6 @@
 
 body{
-    background-color: rgb(0, 102, 255);
+    background-color: rgb(3, 50, 121);
     width: 250px;
     height: 250px; 
 }
@@ -10,7 +10,7 @@ a {
     color:rgb(255, 253, 253);
     font-weight:bold;
   }
-a1{
+u{
     text-decoration:none;
     background-color: #03a87c;
    
@@ -26,4 +26,27 @@ p1{
 }
 h1{
     color: aliceblue;
+}
+mark{
+    background-color: crimson;
+}
+datalist h3{
+    background-color: rgb(255, 255, 254);
+}
+button{
+    margin-left: 80px;
+}
+object{
+    border-right: 21px;
+}
+b{
+    margin-left: 80px;
+}
+h44 {
+    
+    color: azure;
+   
+}
+h1 {
+    margin-left: 80px;
 }

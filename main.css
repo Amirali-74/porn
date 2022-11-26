@@ -1,6 +1,6 @@
 
 body{
-    background-color: blue;
+
 
  width: 250px;
     height: 250px; 
@@ -11,7 +11,7 @@ a {
     color:rgb(255, 253, 253);
     font-weight:bold;
   }
-u{
+a{
     text-decoration:none;
     background-color: #03a87c;
    
@@ -20,13 +20,18 @@ u{
     font-family: sans-serif;
     border-radius: 2px;
     font-weight:bold;
+    border-radius: 20px;
 }
 
 p1{
     color: azure;
+    border-radius: 20px;
+    animation-duration: 4s;
 }
+
 h1{
     color: aliceblue;
+
 }
 mark{
     background-color: crimson;
@@ -41,7 +46,9 @@ object{
     border-right: 21px;
 }
 b{
-    margin-left: 80px;
+    color: white;
+    margin-left: 50px;
+
 }
 h44 {
     
@@ -51,3 +58,6 @@ h44 {
 h1 {
     margin-left: 80px;
 }
+  
+
+ 

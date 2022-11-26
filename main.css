@@ -15,7 +15,7 @@ a{
     text-decoration:none;
     background-color: #03a87c;
    
-    color: rgb(250, 249, 249);
+    color: black;
     padding: 2px 5px;
     font-family: sans-serif;
     border-radius: 2px;
@@ -30,11 +30,11 @@ p1{
 }
 
 h1{
-    color: aliceblue;
+    color :rgb(250, 250, 103);
 
 }
 mark{
-    background-color: crimson;
+    background-color: rgb(236, 61, 96);
 }
 datalist h3{
     background-color: rgb(255, 255, 254);
@@ -47,7 +47,8 @@ object{
 }
 b{
     color: white;
-    margin-left: 50px;
+    font-size: 15px;
+    margin-left: 40px;
 
 }
 h44 {

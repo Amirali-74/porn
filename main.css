@@ -2,9 +2,9 @@
 body{
 
 
- width: 250px;
-    height: 250px; 
-
+ width: 300px;
+    height: 300px; 
+    margin-left: 60PX;
 }
 a {
     text-decoration:none;
@@ -30,17 +30,21 @@ p1{
 }
 
 h1{
-    color :rgb(250, 250, 103);
+    
+    color :rgb(198, 252, 5);
+    font-size: 50px;
+    margin-left: 600px;
+
 
 }
 mark{
-    background-color: rgb(236, 61, 96);
+    background-color: rgb(233, 131, 152);
 }
 datalist h3{
     background-color: rgb(255, 255, 254);
 }
 button{
-    margin-left: 80px;
+    margin-left: 100px;
 }
 object{
     border-right: 21px;
@@ -48,7 +52,7 @@ object{
 b{
     color: white;
     font-size: 15px;
-    margin-left: 40px;
+    margin-left: 70px;
 
 }
 h44 {
@@ -59,6 +63,5 @@ h44 {
 h1 {
     margin-left: 80px;
 }
-  
 
- 
+
